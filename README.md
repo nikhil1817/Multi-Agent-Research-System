@@ -121,23 +121,23 @@ Final Report
 
 ### Home Page
 
-![Home Page](./screenshots/Home_Page.png)
+![Home Page](./Screenshots/Home_Page.png)
 
 ### Human Approval Step
 
-![Human Approval](./screenshots/User_Approval.png)
+![Human Approval](./Screenshots/User_Approval.png)
 
 ### Critic Feedback
 
-![Critic Feedback](./screenshots/Critic_Feedback.png)
+![Critic Feedback](./Screenshots/Critic_Feedback.png)
 
 ### Final Report
 
-![Final Report](./screenshots/Final_Report.png)
+![Final Report](./Screenshots/Final_Report.png)
 
 ### Evaluation
 
-![Evaluation](./screenshots/Evaluation.png)
+![Evaluation](./Screenshots/Evaluation.png)
 
 ## Workflow Lifecycle
 
