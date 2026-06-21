@@ -1,0 +1,14 @@
+venv/
+.env
+
+__pycache__/
+*.pyc
+
+memory/research_memory.json
+
+.next/
+node_modules/
+
+.DS_Store
+
+logs/
